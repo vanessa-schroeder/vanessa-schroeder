@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm Vanessa (she/her/hers) and I work at GitHub. When I'm not reading 📚, writing ✏️, learning 💡, growing my skills 📈, I relax by spending time with my two doggos Mance and Bronn 🦮 and my husband Zack.  
+I'm Vanessa (she/her/hers) and I work at GitHub. When I'm not reading 📚, writing ✏️, learning 💡, growing my skills 📈, I relax by spending time with my two doggos Mance and Bronn 🦮 .  
 
 <!--
 **vanessa-schroeder/vanessa-schroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
