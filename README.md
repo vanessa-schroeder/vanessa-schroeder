@@ -1,5 +1,7 @@
 ### Hi there 👋  
-I'm Vanessa (she/her/hers) and I work at GitHub. When I'm not reading 📚, writing ✏️, learning 💡, growing my skills 📈, I relax by spending time with my two doggos Mance and Bronn 🦮 .  
+I'm Vanessa (she/her/hers) and I work on the Internal and Executive Communications team at GitHub. I'm super passionate about keeping GitHub employees informed on key company initiatives and priorities so that they have the information they need to do their best work. Getting to support the teams that are transforming software development on the largest and most advanced development platform in the world is a dream. 💙
+
+Outside of work, I enjoy reading 📚, learning 💡, growing my skills 💪 and spending time with my two rescue dogs, Mance and Bronn. 🦮🦮  
 
 <!--
 **vanessa-schroeder/vanessa-schroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
